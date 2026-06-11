@@ -15,5 +15,3 @@ API REST funcional desenvolvida para o gerenciamento de produtos de um sistema E
 * Consulta e listagem completa dos produtos salvos no banco de dados.
 * Estrutura baseada no padrão MVC (Model-Repository-Controller).
 * Configuração de CORS ativa (`@CrossOrigin("*")`) pronta para integração com o front-end.
-
-http://localhost:8080/api/produtos
